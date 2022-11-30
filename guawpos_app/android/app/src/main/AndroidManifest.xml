@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.guawpos_app">
    <application
-        android:label="guawpos_app"
+        android:label="Guawpos"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
